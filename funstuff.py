@@ -13,3 +13,6 @@ elif epic == "b":
 elif epic == "c":
     print("print('walter')")
     exit()
+elif epic == "d":
+    print("dumbo i said a b or c")
+    exit()
